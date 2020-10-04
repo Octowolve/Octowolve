@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+## I'm Octowolve. Also know as Silence or HelloWhyMe (from GuidedHacking.com)
+I'm a game hacker and programmer for android. I love to share my work and help others to learn the same.
+I have a small forum where I will post more and more tutorials about android game hacking.
+
+https://piin.dev
+
+I'm currently working on making game hacking for android as easy as possible via detailed tutorials. Alot of stuff for android is "secret" and "shouldn't be shared".
+But I think knowledge should be free and easily accessible everywhere by everyone. 
+That's why I started this small forum. To help and teach others android game hacking.
+
+You can reach out to my via my forum or my discord server.
+
+
+
+[![Discord](https://img.shields.io/discord/720937884814671923?color=%237289DA&logo=discord&logoColor=%23fff&style=for-the-badge)](https://discord.gg/bmRF2ac)
+
 <!--
 **Octowolve/Octowolve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
