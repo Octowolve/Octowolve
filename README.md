@@ -4,7 +4,7 @@
 I'm a game hacker and programmer for android. I love to share my work and help others to learn the same.
 I have a small forum where I will post more and more tutorials about android game hacking.
 
-https://piin.dev
+[![PIIN](https://img.shields.io/discourse/status?label=PIIN.dev&server=https%3A%2F%2Fpiin.dev&style=for-the-badge)](https://piin.dev)
 
 I'm currently working on making game hacking for android as easy as possible via detailed tutorials. Alot of stuff for android is "secret" and "shouldn't be shared".
 But I think knowledge should be free and easily accessible everywhere by everyone,
