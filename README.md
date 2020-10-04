@@ -7,8 +7,8 @@ I have a small forum where I will post more and more tutorials about android gam
 https://piin.dev
 
 I'm currently working on making game hacking for android as easy as possible via detailed tutorials. Alot of stuff for android is "secret" and "shouldn't be shared".
-But I think knowledge should be free and easily accessible everywhere by everyone. 
-That's why I started this small forum. To help and teach others android game hacking.
+But I think knowledge should be free and easily accessible everywhere by everyone,
+That's why I started this small forum, to help and teach others android game hacking.
 
 You can reach out to my via my forum or my discord server.
 
