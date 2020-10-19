@@ -14,7 +14,7 @@ You can reach out to me via my forum or my discord server.
 
 You can also find me here:
 
-[!GuidedHacking](https://guidedhacking.com/members/octowolve.114209/)]
+[![GuidedHacking](https://guidedhacking.com/members/octowolve.114209/)]
 
 My github stats:
 
