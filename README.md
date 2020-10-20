@@ -23,9 +23,9 @@ You can also find me here:
 
 My github stats:
 
-![Octo's github stats](https://github-readme-stats.vercel.app/api?username=Octowolve&theme=dark)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Octowolve&theme=dark" alt="octowolve" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Octowolve&layout=compact)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Octowolve&layout=compact" alt="octowolve-langs" /></p>
 <!--
 **Octowolve/Octowolve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
