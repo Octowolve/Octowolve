@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://piin.dev"><img src="https://github.com/Octowolve/Octowolve/blob/main/PiinLogoBlue.png"/></a>
+  <a href="https://piin.dev"><img src="https://github.com/Octowolve/Octowolve/blob/main/PiinLogoBlue.png" width="500" height="600"/></a>
 </p>
 
 <h2 align="center">I'm Octowolve. Also known as Silence (back from the Call of Mini Infinity days and my YouTube channel)</h2>
