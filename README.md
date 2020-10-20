@@ -1,4 +1,9 @@
-## I'm Octowolve. Also known as Silence (back from the Call of Mini Infinity days and my YouTube channel)
+<p align="center">
+  <a href="https://piin.dev"><img src="https://github.com/Octowolve/Octowolve/blob/main/PiinLogoBlue.png"/></a>
+</p>
+
+<h2 align="center">I'm Octowolve. Also known as Silence (back from the Call of Mini Infinity days and my YouTube channel)</h2>
+<br/><br/>
 I'm a game hacker and programmer for android. I love to share my work and help others to learn the same.
 I have a small forum where I will post more and more tutorials about android game hacking.
 
