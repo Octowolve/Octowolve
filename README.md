@@ -16,6 +16,7 @@ You can reach out to me via my forum or my discord server.
 
 [![Discord](https://img.shields.io/discord/720937884814671923?color=%237289DA&logo=discord&logoColor=%23fff&style=for-the-badge)](https://discord.gg/bmRF2ac)
 [![PIIN](https://img.shields.io/discourse/status?label=PIIN.dev&server=https%3A%2F%2Fpiin.dev&style=for-the-badge)](https://piin.dev)
+![Profile views counter](https://komarev.com/ghpvc/?Octowolve&color=red&style=flat-square)
 
 You can also find me here:
 
@@ -28,8 +29,6 @@ My github stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Octowolve&layout=compact" alt="octowolve-langs" /></p>
 <!--
 **Octowolve/Octowolve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Octowolve&&style=flat-square)  
 
 Here are some ideas to get you started:
 
